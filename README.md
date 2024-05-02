@@ -1,4 +1,4 @@
-# easy-chatapp-python
+# Chat App
 Basic chatapp in python
 
 How to use:
