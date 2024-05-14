@@ -11,6 +11,6 @@ Then run the client
 
 If you want to talk to me: tutlamc#0000 on discord or
 
-if you want to support: https://paypal.me/tutlamc
+if you want to support: https://me.tutla.net/donate
 
 All other projects and info: https://discord.gg/YmjyXyY576 or my github
